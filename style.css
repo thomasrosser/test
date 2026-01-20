@@ -1,1 +1,12 @@
+body {
+background-color: #A096D4;
+}
 
+h1 { color: #FF00E2;
+background-color: blue;
+font-family: monospace;}
+
+h2 { color: #E9FF00;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+p { color: #FFA900;}
